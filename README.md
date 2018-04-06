@@ -23,7 +23,7 @@ senao nota_VF = calculo_final;
 
 imprima nota_VF;
 
-nova alteracao
+
 
 fim
 
